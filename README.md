@@ -1,12 +1,18 @@
+
+## 👨‍💻Python developer
+### Alpha Rescue team - [link](https://t.me/rescue_alpha)
+![](https://komarev.com/ghpvc/?username=Messxrem&color=blue&style=flat)
+
 ![](https://raw.githubusercontent.com/Nsi4b/Nsi4b/main/Nsi4b.gif)
+ 
+## 🛠 Languages and Tools:
+![](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/-web3-090909?style=for-the-badge&logo=ethereum)
 
-# Hi, I'm Nsi4b 👋
+## 📊 Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Messxrem&layout=compact&theme=blue_navy)
 
-Junior iOS Developer, athlete, obsessed with science, technology and the desire to make this world a better place.
+[![Stats](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=blue_navy)](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=blue_navy)
 
--  Swift, XCode, UIKit, SwiftUI
--  OOP, POP, SOLID
--  MVC, MVVM, MVP
--  Ask me about all things iOS
--  CoreData, CoreLocation, MapKit
--  Realm, Alamofire, Firebase
+## 🔗 Socials:
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nsi4b)
