@@ -1,17 +1,9 @@
+## 💸 Support My Work
+If my work has been helpful to you or your projects, consider supporting me. Ethereum (ETH) and Solana (SOL) donations are greatly appreciated!
 
-## 👨‍💻Python developer
- 
-## 🛠 Languages and Tools:
-![](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/-web3-090909?style=for-the-badge&logo=ethereum)
+- **Ethereum (ETH):** `0x1Bd298391Bc8E79189ccA44fE5C4221c0d26c4cD`
+- **Solana (SOL):** `ECyoisDykbvPi3Mr2gCpEvvYzmxx2YyMKJ21DLkEtzZu`
 
-### Alpha Rescue team - [link](https://t.me/rescue_alpha)
-![](https://komarev.com/ghpvc/?username=0xNsi4b&color=blue&style=flat)
+## 🔗 Connect with Me:
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nsi4b)
 
-## 📊 Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xNsi4b&layout=compact&theme=blue_navy)
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=0xNsi4b&show_icons=true&theme=blue_navy)](https://github-readme-stats.vercel.app/api?username=Messxrem&show_icons=true&theme=blue_navy)
-
-## 🔗 Socials:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/nsi4b)
